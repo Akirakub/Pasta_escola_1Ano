@@ -75,10 +75,10 @@ void tipo(){
     system ("cls");
     
     if(x%2 ==0){
-        printf("seu num é par");
+        printf("seu num Ã© par");
     }
     else{
-        printf("seu num é impar");
+        printf("seu num Ã© impar");
     }
     system("pause");
     
